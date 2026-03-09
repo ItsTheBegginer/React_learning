@@ -1,0 +1,51 @@
+.card{
+  border: 1px solid rgb(41, 39, 39);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(171, 167, 167);
+  padding: 20px;
+  display: inline-block;
+  max-width: 300px;
+  margin: 10px;
+  text-align: center;
+}
+
+.card .card-img{
+  border: 1px solid rgb(235, 206, 60);
+  height: auto;
+  padding: 0;
+  background-color: black;
+  max-width: 60%;
+  border-radius: 20%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.student{
+  background-color: rgb(17, 248, 240);
+  border: 2px solid rgb(171, 254, 5) ;
+  display: block;
+  text-align: center;
+  
+}
+
+.Welcome{
+  background-color: rgb(112, 243, 199);
+  color: rgb(15, 14, 15);
+  padding: 20;
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.Login{
+  background-color: rgb(228, 94, 67);
+  color: rgb(236, 244, 236);
+  padding: 20;
+  margin: 0;
+  font-size: 2.5em;
+}
+.Afif{
+  background-color: black;
+  font-style: italic;
+  color:greenyellow;
+  border: 2px solid rgb(45, 148, 216);
+}
